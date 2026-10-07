@@ -1,29 +1,28 @@
-![MasterHead](https://github.com/user-attachments/assets/293249b5-7c44-46e3-bca3-ae1d2ef119b3)
-I'm a passionate Frontend Developer who enjoys creating clean, responsive, and user-friendly web interfaces. Currently, I'm expanding my skills by learning **Full Stack Web Development + DSA + Aptitude & Reasoning at [Sheryians Coding School](https://sheryians.com/)**
+# Hi, I'm Firoj 👋
 
-<img src="https://github.com/user-attachments/assets/531fcdeb-420c-40ea-8e0f-c162ffd99637" align="right" alt="coding" width="400"/>
+**Full Stack Developer (MERN)** based in Pune, India.
+I build web apps that solve real problems for real small businesses.
 
-💻 What I Do:
-- Build simple and engaging frontend projects
-- Continuously explore new web technologies
-- Learning backend development to craft complete web solutions
+## What I'm working on
+- **Apna Khata**: a digital credit ledger that replaces the paper khata notebook for small shops. Role-based auth, payment verification workflow, ledger and history views.
+- **HunarIQ**: my freelance studio building websites and web apps for local businesses.
 
+## Tech stack
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-🚀 Current Goals:
-- Master full-stack development
-- Work on real-world projects to sharpen my skills
-- I'm always open to learning, collaborating, and growing in the tech world. Let's connect and create something awesome together! 🌟
+## Featured projects
+| Project | What it does | Stack |
+|---|---|---|
+| [Apna Khata](https://github.com/MeinFiroj/Apna-Khata) | Digital credit ledger for a small shop, with JWT auth (httpOnly cookies) and Pending → Verified → Rejected payment status | MERN |
 
-<h3 align="left">Languages I Play with right now:</h3>
-<p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </p>
+## Open to work
+Looking for **Junior Software Engineer / Full Stack Developer** roles (Pune or remote).
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/firoj shaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="firoj shaikh" height="20" width="25" /></a>
-<a href="https://instagram.com/mein_firoj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mein_firoj" height="20" width="25" /></a>
-</p>
-
-📫 How to reach me **firojs2108@gmail.com**
-
-<hr>
+📫 [LinkedIn](www.linkedin.com/in/ifirojshaikh) · ✉️ firojs2108@gmail.com
